@@ -10,7 +10,7 @@ public class HelloWorld extends JFrame {
     public HelloWorld() {
         setMinimumSize(new Dimension(300, 200));
         JLabel lblMensagem2 = new JLabel("Joao Fernandes esteve aqui!"); //minha linha de code
-
+    //AJAJJSSKALMAXLS
         painelPrincipal.add(lblMensagem2);
         //AAAAAAAAAAAAAAAAAAAAAAAAa
         setContentPane(painelPrincipal);
